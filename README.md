@@ -1,6 +1,6 @@
-# Itau_EBanking_Retail
+# webservice_urutec_implementation
 
-### Readme
-- [📋 Readme ItauLink](http://gitlab.intranet.certant.com/desarrolladores_itau_uy/Itau_EBanking_Retail/-/tree/master/Itaulink) 
-- [📋 Readme Institucional](http://gitlab.intranet.certant.com/desarrolladores_itau_uy/Itau_EBanking_Retail/-/tree/master/Institucional)
-- [📋 Readme Apps](http://gitlab.intranet.certant.com/desarrolladores_itau_uy/Itau_EBanking_Retail/-/tree/master/MobileApps)
+- 🌿 branch: /master
+- 🏷️ tag: 1.3.2
+- [🔗 Link to Jenkins job](https://webi.certant.com/jenkins/job/itau_uy-itaulink-webservice_urutec_implementation/)
+- [🛰️ Sonar dashboard](http://sonarqube:9000/dashboard?id=com.itau.services.webservice%3Aurutec-itaulink-impl)
